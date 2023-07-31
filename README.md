@@ -1,0 +1,22 @@
+<div id="header" align="center">
+  <img src="https://yt3.googleusercontent.com/ytc/AOPolaTPiHmF2G8MsWKRLGCudYOtGfBNNsMIY5_yZ7HrImQ=s176-c-k-c0x00ffffff-no-rj" width="100"/>
+</div>
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/yusuf-berkan-demirbag-87b9ba231/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCrXZz6P7GNJIAmq6qHNpKdw">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/zketra7">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+<div id="header" align="center">
+  <h1>Zketra Dotfiles for ARCH</h1>
+</div>
+<div id="header" align="center">
+    <img src="https://i.redd.it/sp4q07689bfb1.png" alt="Theme Showcase">
+</div>
