@@ -18,5 +18,5 @@
   <h1>Zketra Dotfiles for ARCH</h1>
 </div>
 <div id="header" align="center">
-    <img src="https://i.redd.it/sp4q07689bfb1.png" alt="Theme Showcase">
+    <img src="./IMAGES/reddit.png" alt="Theme Showcase">
 </div>
