@@ -23,3 +23,4 @@
 <div id="header" align="center">
     <img src="./IMAGES/reddit.png" alt="Theme Showcase">
 </div>
+<hr>
