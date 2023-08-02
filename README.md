@@ -18,7 +18,11 @@
   <h1>Zketra Dotfiles for ARCH</h1>
 </div>
 <p>I hope you enjoy. This my first (official) rice since i started linux only a couple month ago. I am happy to be a part of the ARCH/Linux comunity. Enjoy</p>
-<br>
+
+<ul>
+  <li>Wallpaper: https://whvn.cc/9mjoy1</li>
+</ul>
+
 <h2>Theme:</h2>
 <div id="header" align="center">
     <img src="./IMAGES/reddit.png" alt="Theme Showcase">
